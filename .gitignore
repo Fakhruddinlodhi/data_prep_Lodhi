@@ -5,6 +5,9 @@ build/
 dist/
 wheels/
 *.egg-info
+*.duckdb
+*.wal
+*.csv
 
 # Virtual environments
 .venv
